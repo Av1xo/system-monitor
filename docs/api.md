@@ -21,8 +21,32 @@ Response:
 {
   "timestamp": 1700000000,
   "cpu": {
-    "usage_percent": 23.4,
-    "cores": 8
+    "total_usage_percent": 20,
+    "cores": 8,
+    "cores_info": 
+    [
+        {
+            "usage_percent": 2.5,
+        },
+        {
+            "usage_percent": 2.5,
+        },
+        {
+            "usage_percent": 2.5,
+        },
+        {
+            "usage_percent": 2.5,
+        },
+        {
+            "usage_percent": 2.5,
+        },
+        {
+            "usage_percent": 2.5,
+        },
+        {
+            "usage_percent": 2.5,
+        },
+    ] 
   },
   "memory": {
     "used_mb": 4120,
